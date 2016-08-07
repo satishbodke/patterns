@@ -10,7 +10,7 @@ namespace Demos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("first change, someone modified online");
+            Console.WriteLine("second change, someone modified online");
         }
     }
 }
